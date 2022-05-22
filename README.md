@@ -1,2 +1,2 @@
-# Calculadora
-Uma calculadora em Python
+# Calculadora do ed
+Uma calculadora em Python pro ed somar
