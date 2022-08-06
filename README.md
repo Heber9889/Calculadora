@@ -1,2 +1,1 @@
-# Calculadora do ed
-Uma calculadora em Python pro ed somar
+#CALCULADORA_PROJETADA_EM_PYTHON_POR_PROFESSORES!
